@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="VPN Privacy Lab Banner" />
+  <img src="screenshots/banner.png" alt="VPN Privacy Lab Banner" />
 </div>
 
 <div align="center">
