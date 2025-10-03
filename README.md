@@ -1,5 +1,18 @@
-# Vpn-privacy-lab
-Hands-on VPN setup and privacy analysis using ProtonVPN. Explores tunneling protocols, IP masking, and encrypted traffic inspection.
+<div align="center">
+  <img src="banner.png" alt="VPN Privacy Lab Banner" />
+</div>
+
+<div align="center">
+
+  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-VPN%20Lab-blueviolet?style=for-the-badge&logo=security)
+  ![Encryption](https://img.shields.io/badge/Encryption-AES256-critical?style=for-the-badge&logo=lock)
+  ![VPN Protocols](https://img.shields.io/badge/Protocols-OpenVPN%20%7C%20WireGuard-brightgreen?style=for-the-badge&logo=protocols)
+  ![Privacy Tools](https://img.shields.io/badge/Privacy-Tools-important?style=for-the-badge&logo=shield)
+  ![Internship Project](https://img.shields.io/badge/Elevate%20Labs-Internship-yellow?style=for-the-badge&logo=graduation-cap)
+  ![GitHub Project](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)
+  ![Network Security](https://img.shields.io/badge/Network-Security-blue?style=for-the-badge&logo=network)
+
+</div>
 
 # 🔐 VPN Privacy Exploration — Cybersecurity Internship Task
 
