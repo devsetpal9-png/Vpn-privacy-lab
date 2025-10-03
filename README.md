@@ -2,6 +2,8 @@
   <img src="screenshots/banner.png" alt="VPN Privacy Lab Banner" />
 </div>
 
+---
+
 <div align="center">
 
   ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-VPN%20Lab-blueviolet?style=for-the-badge&logo=security)
