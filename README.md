@@ -33,9 +33,9 @@ This project documents my hands-on experience with VPN setup, tunneling protocol
 
 | Screenshot | Caption |
 |------------|---------|
-| ![VPN Connected](vpn-connected.png) | ProtonVPN connected to Netherlands server |
-| ![IP Change](ip-change.png) | IP changed from India to Netherlands — verified via whatismyipaddress.com |
-| ![Encrypted Traffic](https-traffic.png) | Encrypted traffic confirmed via browser network inspector |
+| [VPN Connected](screenshots/vpn-connected.png) | ProtonVPN connected to Netherlands server |
+| [IP Change](screenshots/ip-change.png) | IP changed from India to Netherlands — verified via whatismyipaddress.com |
+| [Encrypted Traffic](screenshots/https-traffic.png) | Encrypted traffic confirmed via browser network inspector |
 
 ---
 
